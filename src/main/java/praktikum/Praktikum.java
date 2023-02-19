@@ -28,7 +28,7 @@ public class Praktikum {
         // Переместим слой с ингредиентом
         burger.moveIngredient(2, 1);
 
-        // Удалим ингредиент
+        // Удаление ингредиента
         burger.removeIngredient(3);
 
         // Распечатаем рецепт бургера
